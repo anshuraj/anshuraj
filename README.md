@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
 
+I am a frontend software engineer working at [Razorpay](https://razorpay.com) building awesome products.
+
+🔭 I’m currently working on Javascript, React
+
+📫 Don't be shy, 👋 [Say Hi!](mailto:imanshuraj@gmail.com)
+  
 <!--
 **anshuraj/anshuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
