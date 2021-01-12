@@ -4,7 +4,7 @@ I am a frontend software engineer working at [Razorpay](https://razorpay.com) bu
 
 🔭 I’m currently working on Javascript, React
 
-📫 Don't be shy, 👋 [Say Hi!](mailto:imanshuraj@gmail.com)
+📫 Don't be shy, 👋 [Say Hi!](mailto:sayhi@anshuraj.com)
   
 <!--
 **anshuraj/anshuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
