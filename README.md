@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am a frontend software engineer working at [Razorpay](https://razorpay.com) building awesome products.
+I am a frontend engineer working at [Razorpay](https://razorpay.com) building awesome products.
 
 🔭 I’m currently working on Javascript, React
 
