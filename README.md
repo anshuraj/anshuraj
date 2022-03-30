@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-I am a frontend engineer working at [Razorpay](https://razorpay.com) building awesome products.
+I am a UX Engineer working at [Google](https://about.google/) building awesome products.
 
-🔭 I’m currently working on Javascript, React
+🔭 I’m currently working on Javascript
 
 📫 Don't be shy, 👋 [Say Hi!](mailto:sayhi@anshuraj.com)
   
